@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning API
 - 💞️ I’m looking to collaborate on Web Development Projects
-- 📫 Contactme Gmail: jasmine13cse@gmail.com linkedin: jasmine-kathija-banu
+- 📫 Contactme Gmail: jasmine13cse@gmail.com linkedin: [jasmine-kathija-banu](https://www.linkedin.com/in/jasmine-kathija-banu/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
